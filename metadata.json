@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Web IDE",
+  "description": "A web-based Integrated Development Environment (IDE) powered by Gemini. Write and run web projects, and use AI to analyze code, generate tests, and more.",
+  "requestFramePermissions": []
+}
